@@ -1,0 +1,47 @@
+.full-body{
+    background: #9df1df;  
+    font-size: larger;  
+}
+.grp{
+    color: #fff;
+    background: #0081b4;
+    border-radius: 10px ;
+    box-shadow: 10px 10px 20px 0 #5c5c5c;
+}
+.textInput{
+    padding: 10px 0px;
+}
+.note{
+    font-size: small;
+
+}
+.img{
+    width:30%;
+    height: 30%;
+}
+.img img{
+    border-radius: 30px;
+    max-width:100%;
+}
+
+.footer{
+   /*background: #ADA2FF; */
+    background: #0081b4;
+    text-emphasis: bold;
+
+
+}
+
+input .bigCheck{
+    height: 50px;
+    width: 50px;
+
+}
+
+
+
+.term a{
+    color: #ffffff;
+}
+
+
